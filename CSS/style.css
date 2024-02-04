@@ -1,0 +1,75 @@
+select{
+    border: none;
+    background-color: #343434;
+    font-size: 25px;
+    color:white;
+    height: 50px;
+}
+select:hover{
+    border-bottom: 5px double white;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-self: start;
+    border-bottom: 2px solid lightgray;
+}
+body{
+    background-color: #343434;
+    font-size: 24px;
+    margin-left: 0;
+    margin-right: 0;
+}
+a{
+    font-family: sans-serif; 
+}
+img{
+  padding: 10px;
+  line-height: 0px;
+  padding-top: 100px;
+}
+.q{ 
+    padding-left: 50px;
+    width: 250px;
+    height: 350px;
+
+}
+.w{
+    width: 250px;
+    height: 350px;
+
+}
+.e{
+    width: 300px;
+    height: 350px;
+
+}
+.r{
+    width: 450px;
+    height: 350px;
+
+}
+.t{
+    height: 350px;
+    width: 430px;
+}
+.y{
+    padding-left: 50px;
+    line-height: 40px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.ab::after{
+    content: url(https://i.postimg.cc/d0YVXGrB/free-icon-font-discord-6422197-2.png);
+}
+p{
+    color: white;
+    font-size: 25px;
+    font-family: 'Arial Narrow Bold',sans-serif;
+
+}
+footer{
+    background-color: grey;
+    padding: 10px;
+    text-align: center;
+}
